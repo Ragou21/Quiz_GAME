@@ -1,0 +1,168 @@
+{
+  "Science": {
+    "facile": [
+      {
+        "question": "Quelle planète est la plus proche du Soleil ?",
+        "options": ["Terre", "Mars", "Mercure", "Venus"],
+        "answer": "Mercure"
+      },
+      {
+        "question": "Quel gaz les plantes utilisent-elles pour la photosynthèse ?",
+        "options": ["Oxygène", "Azote", "Hydrogène", "Dioxyde de carbone"],
+        "answer": "Dioxyde de carbone"
+      },
+      {
+        "question": "Combien de pattes a une araignée ?",
+        "options": ["6", "8", "10", "12"],
+        "answer": "8"
+      },
+      {
+        "question": "Quel est l'état de l'eau à 100°C ?",
+        "options": ["Solide", "Liquide", "Gaz", "Plasma"],
+        "answer": "Gaz"
+      },
+      {
+        "question": "Quel est le symbole chimique de l'eau ?",
+        "options": ["H2O", "O2", "CO2", "NaCl"],
+        "answer": "H2O"
+      }
+    ],
+    "moyen": [
+      {
+        "question": "Quel organe humain est responsable de la production d'insuline ?",
+        "options": ["Foie", "Rein", "Pancréas", "Estomac"],
+        "answer": "Pancréas"
+      },
+      {
+        "question": "Quelle particule subatomique est chargée positivement ?",
+        "options": ["Électron", "Neutron", "Proton", "Photon"],
+        "answer": "Proton"
+      },
+      {
+        "question": "Quel est le rôle principal des globules rouges ?",
+        "options": ["Combattre les infections", "Transporter l'oxygène", "Digérer les graisses", "Produire des hormones"],
+        "answer": "Transporter l'oxygène"
+      },
+      {
+        "question": "Quel est l'organe principal de la digestion ?",
+        "options": ["Cœur", "Intestin grêle", "Estomac", "Foie"],
+        "answer": "Intestin grêle"
+      },
+      {
+        "question": "Quelle est la formule chimique du sel de table ?",
+        "options": ["NaCl", "HCl", "KCl", "MgCl2"],
+        "answer": "NaCl"
+      }
+    ],
+    "difficile": [
+      {
+        "question": "Quelle est la constante de gravitation universelle ?",
+        "options": ["6.67×10^-11", "9.81", "3×10^8", "1.6×10^-19"],
+        "answer": "6.67×10^-11"
+      },
+      {
+        "question": "Quelle est la principale fonction des mitochondries ?",
+        "options": ["Synthèse des protéines", "Production d'énergie", "Stockage de l'ADN", "Détoxification cellulaire"],
+        "answer": "Production d'énergie"
+      },
+      {
+        "question": "Quel type de liaison chimique implique le partage d'électrons ?",
+        "options": ["Ionique", "Covalente", "Hydrogène", "Métallique"],
+        "answer": "Covalente"
+      },
+      {
+        "question": "Quel scientifique a proposé la loi de la gravitation ?",
+        "options": ["Einstein", "Galilée", "Newton", "Curie"],
+        "answer": "Newton"
+      },
+      {
+        "question": "Quel est le pH d'une solution neutre ?",
+        "options": ["0", "7", "14", "1"],
+        "answer": "7"
+      }
+    ]
+  },
+  "Culture Générale": {
+    "facile": [
+      {
+        "question": "Quel est le continent de la France ?",
+        "options": ["Asie", "Amérique", "Europe", "Afrique"],
+        "answer": "Europe"
+      },
+      {
+        "question": "Quel jour suit le lundi ?",
+        "options": ["Mardi", "Dimanche", "Samedi", "Jeudi"],
+        "answer": "Mardi"
+      },
+      {
+        "question": "Combien de couleurs contient l'arc-en-ciel ?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+      },
+      {
+        "question": "Quel est le nom de notre planète ?",
+        "options": ["Mars", "Vénus", "Jupiter", "Terre"],
+        "answer": "Terre"
+      },
+      {
+        "question": "Combien de jours y a-t-il dans une semaine ?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+      }
+    ],
+    "moyen": [
+      {
+        "question": "Qui est l'auteur de 'Le Petit Prince' ?",
+        "options": ["Victor Hugo", "Antoine de Saint-Exupéry", "Molière", "Jules Verne"],
+        "answer": "Antoine de Saint-Exupéry"
+      },
+      {
+        "question": "Quelle est la capitale du Canada ?",
+        "options": ["Toronto", "Ottawa", "Montréal", "Vancouver"],
+        "answer": "Ottawa"
+      },
+      {
+        "question": "Dans quelle ville se trouve la Tour Eiffel ?",
+        "options": ["Londres", "Berlin", "Paris", "Madrid"],
+        "answer": "Paris"
+      },
+      {
+        "question": "Combien de continents y a-t-il sur Terre ?",
+        "options": ["4", "5", "6", "7"],
+        "answer": "7"
+      },
+      {
+        "question": "Quel est l’animal symbole de la paix ?",
+        "options": ["Colombe", "Aigle", "Lion", "Serpent"],
+        "answer": "Colombe"
+      }
+    ],
+    "difficile": [
+      {
+        "question": "En quelle année a eu lieu la Révolution française ?",
+        "options": ["1789", "1776", "1804", "1799"],
+        "answer": "1789"
+      },
+      {
+        "question": "Quel pays a la plus grande population au monde ?",
+        "options": ["Inde", "États-Unis", "Chine", "Brésil"],
+        "answer": "Chine"
+      },
+      {
+        "question": "Quel est le plus long fleuve du monde ?",
+        "options": ["Nil", "Amazonie", "Mississippi", "Yangtsé"],
+        "answer": "Amazonie"
+      },
+      {
+        "question": "Combien y a-t-il de lettres dans l’alphabet grec ?",
+        "options": ["24", "26", "20", "22"],
+        "answer": "24"
+      },
+      {
+        "question": "Quel philosophe a écrit 'Le Contrat social' ?",
+        "options": ["Platon", "Descartes", "Rousseau", "Aristote"],
+        "answer": "Rousseau"
+      }
+    ]
+  }
+}
